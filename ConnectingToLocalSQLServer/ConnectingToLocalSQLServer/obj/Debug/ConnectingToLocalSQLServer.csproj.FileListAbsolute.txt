@@ -1,0 +1,10 @@
+C:\Users\miche\source\repos\ConnectingToLocalSQLServer\ConnectingToLocalSQLServer\bin\Debug\ConnectingToLocalSQLServer.exe.config
+C:\Users\miche\source\repos\ConnectingToLocalSQLServer\ConnectingToLocalSQLServer\bin\Debug\ConnectingToLocalSQLServer.exe
+C:\Users\miche\source\repos\ConnectingToLocalSQLServer\ConnectingToLocalSQLServer\bin\Debug\ConnectingToLocalSQLServer.pdb
+C:\Users\miche\source\repos\ConnectingToLocalSQLServer\ConnectingToLocalSQLServer\bin\Debug\Dapper.dll
+C:\Users\miche\source\repos\ConnectingToLocalSQLServer\ConnectingToLocalSQLServer\bin\Debug\Dapper.xml
+C:\Users\miche\source\repos\ConnectingToLocalSQLServer\ConnectingToLocalSQLServer\obj\Debug\ConnectingToLocalSQLServer.csprojAssemblyReference.cache
+C:\Users\miche\source\repos\ConnectingToLocalSQLServer\ConnectingToLocalSQLServer\obj\Debug\ConnectingToLocalSQLServer.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\ConnectingToLocalSQLServer\ConnectingToLocalSQLServer\obj\Debug\ConnectingToLocalSQLServer.csproj.CopyComplete
+C:\Users\miche\source\repos\ConnectingToLocalSQLServer\ConnectingToLocalSQLServer\obj\Debug\ConnectingToLocalSQLServer.exe
+C:\Users\miche\source\repos\ConnectingToLocalSQLServer\ConnectingToLocalSQLServer\obj\Debug\ConnectingToLocalSQLServer.pdb
